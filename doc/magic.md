@@ -48,6 +48,12 @@ Except that this is just an add-on afterthought that anybody could have
 written (if they were smart enough...I don't want to begin to imagine
 what it took to make javascript look multi-threaded).
 
+## ring
+
+https://github.com/mmcgrana/ring/wiki/Concepts
+
+TODO: Write this
+
 ## clojure script
 
 This isn't a library as much as a total game-changer. Well, along
@@ -107,7 +113,12 @@ problems that react doesn't address.
 
 TODO: Write up more about this
 
+http://roninhacker.wordpress.com/2014/03/29/how-to-build-stuff-with-om/
+http://github.com/sgrove/omchaya
 
 ## On Lisp
 
 ## datomic
+
+## reduce
+
