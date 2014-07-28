@@ -26,5 +26,25 @@ It's also super-productive and has an incredibly quick developer feedbak loop.
 Once you get it, it basically just stays out of your way and lets you focus on
 getting work done.
 
+# See Also
 
-TODO: write [great documentation](http://jacobian.org/writing/great-documentation/what-to-write/)
+This is the sort of intro that I think would have been interesting/useful to
+me.
+
+That doesn't mean it would make any sort of sense to anyone else. There are
+scads of resources available online that go into much more depth than I have here.
+
+It's far from anything like a comprehensive guide, but c.f.md has some links to
+pieces that I think are worth looking at, depending on the way your brain works
+and what interests you.
+
+
+## TODO
+
+* Add a link to magic.md. That should probably come from the further reading page
+
+* Which means I need to add a 'further reading' page
+
+* Split the code examples into clj/cljs folders and make life interesting
+
+* Add Stuart Sierra's Workflow Revisited
