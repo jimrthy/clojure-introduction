@@ -28,4 +28,10 @@ and where the output should go.
 
 ## License
 
-Copyright © 2014 Virtual Bridges, Inc. All rights reserved.
+Copyright © 2014 James Gatannah.
+
+Licensed under the Creative Commons Attribution-ShareAlike 4.0 International
+License.
+
+http://creativecommons.org/licenses/by-sa/4.0
+
