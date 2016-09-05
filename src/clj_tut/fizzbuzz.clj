@@ -24,12 +24,11 @@
   [n next-3 next-5]
   {:pre [(>= next-3 n)
          (>= next-5 n)]}
-  (condp = n
-        next-3 (if (= n next-5)
-                 'fizzbuzz
-                 'fizz)
-        next-5 'buzz
-        n))
+  (cond
+   (= n next-3 next-5) 'fizzbuzz
+   (= n next-3) 'fizz
+   (= n next-5) 'buzz
+   :else n))
 
 ;; Use the REPL to eval these for unit tests
 (comment (distinguish 1 3 5)
@@ -129,4 +128,6 @@ multiple that's >= n"
 
 (comment (take 15 (fizzbuzz))
          (take 15 (drop 30 (fizzbuzz)))
-         (take 15 (drop 1e6 (fizzbuzz))))
+         (take 15 (drop 1e6 (fizzbuzz)))
+         (take 15 (drop 1e12 (fizzbuzz)))
+)
