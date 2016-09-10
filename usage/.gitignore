@@ -1,2 +1,4 @@
+.lein-repl-history
+.nrepl-history
 .nrepl-port
 target/
